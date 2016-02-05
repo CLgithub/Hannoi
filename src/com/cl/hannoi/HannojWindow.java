@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  * 主窗口
- * @author 陈雷
+ * @author L
  * @date 2015年10月31日
  */
 public class HannojWindow extends JFrame implements ActionListener{
@@ -29,7 +29,7 @@ public class HannojWindow extends JFrame implements ActionListener{
 //	JPanel chenter=new JPanel();
 	
 	public HannojWindow() {
-		System.out.println("HannojWindow.HannojWindow()");
+	//	System.out.println("HannojWindow.HannojWindow()");
 		
 		/**************绘画主界面*****************/
 		tower=new Tower(towerName);

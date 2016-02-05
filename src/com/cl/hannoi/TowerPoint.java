@@ -6,7 +6,7 @@ import java.awt.Container;
 
 /**
  * 塔的节点
- * @author 陈雷
+ * @author L
  * @date 2015年10月31日
  */
 public class TowerPoint {
@@ -16,7 +16,7 @@ public class TowerPoint {
 
 	/**
 	 * 创建一个塔点
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param x 塔点横坐标
 	 * @param y 塔点纵坐标
@@ -52,7 +52,7 @@ public class TowerPoint {
 
 	/**
 	 * 将盘子显示出来，放在该节点上
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param com
 	 * @param con

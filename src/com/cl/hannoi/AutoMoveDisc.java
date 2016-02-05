@@ -17,7 +17,7 @@ import javax.swing.Timer;
 
 /**
  * 自动移动盘子类
- * @author 陈雷
+ * @author L
  * @date 2015年10月31日
  */
 public class AutoMoveDisc extends JDialog implements ActionListener {

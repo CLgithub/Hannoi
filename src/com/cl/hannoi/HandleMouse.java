@@ -9,7 +9,7 @@ import java.awt.event.MouseMotionListener;
 /**
  * 盘子对象disc的鼠标事件监听对象
  * 
- * @author 陈雷
+ * @author L
  * @date 2015年10月31日
  */
 public class HandleMouse implements MouseListener, MouseMotionListener {

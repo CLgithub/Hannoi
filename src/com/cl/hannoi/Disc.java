@@ -7,7 +7,7 @@ import javax.swing.JButton;
 /**
  * 盘子对象
  * 
- * @author 陈雷
+ * @author L
  * @date 2015年10月31日
  */
 public class Disc extends JButton {

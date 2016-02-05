@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 /**
  * 容器
  * 
- * @author 陈雷
+ * @author L
  * @date 2015年10月30日
  */
 public class Tower extends JPanel {
@@ -25,7 +25,7 @@ public class Tower extends JPanel {
 	/**
 	 * 创建容器
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月30日
 	 * @param towerName
 	 *            容器名称
@@ -40,7 +40,7 @@ public class Tower extends JPanel {
 	/**
 	 * 设定盘子数
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param number
 	 */
@@ -55,7 +55,7 @@ public class Tower extends JPanel {
 	/**
 	 * 设置盘子最大宽度
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param maxDiscWidth
 	 */
@@ -66,7 +66,7 @@ public class Tower extends JPanel {
 	/**
 	 * 设置盘子最小宽度
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param minDiscWidth
 	 */
@@ -77,7 +77,7 @@ public class Tower extends JPanel {
 	/**
 	 * 设置盘子高度
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @param discHeight
 	 */
@@ -88,7 +88,7 @@ public class Tower extends JPanel {
 	/**
 	 * 得到自动移动盘子方法
 	 * 
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 * @return
 	 */
@@ -98,7 +98,7 @@ public class Tower extends JPanel {
 
 	/**
 	 * 重新摆放盘子
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 */
 	private void removeDisk() {
@@ -113,7 +113,7 @@ public class Tower extends JPanel {
 
 	/**
 	 * 设置3个塔的节点，初始化盘子，摆放盘子到搭上
-	 * @author 陈雷
+	 * @author L
 	 * @date 2015年10月31日
 	 */
 	public void putDiscOnTower() {
